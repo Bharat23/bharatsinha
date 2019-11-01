@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Computer Science and Engineering, Galgotia College of Engineering and technology, 2015
 * M.S. in Computer Science, North Carolina State University, 2019 (expected)
 
 Work experience
@@ -46,13 +46,7 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+    
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
