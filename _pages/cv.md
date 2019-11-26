@@ -11,20 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science and Engineering, Galgotia College of Engineering and technology, 2015
 * M.S. in Computer Science, North Carolina State University, 2019 (expected)
+* B.S. in Computer Science and Engineering, Galgotia College of Engineering and technology, 2015
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Performance Engineer Intern: (Jun 19 - Aug 19) 
+  * Ancestry
+  * Description: 
+    * Tagging issues
 
-* Fall 2015: Research Assistant
-  * Github University
+* Software Engineer: (Mar 17 - Jul 18)
+  * TO THE NEW
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+* Software Programmer: (Sep 15 - Feb 17)
+  * IndiaMART
+  * Duties included: Merging pull requests
   
 Skills
 ======
