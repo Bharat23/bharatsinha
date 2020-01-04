@@ -12,4 +12,4 @@ This paper is about the number 2. The number 3 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Sinha, Bharat. (2015). "Comparison of PNG & JPEG Format for LSB Steganography" <i>Journal 1</i>. 1(2).
